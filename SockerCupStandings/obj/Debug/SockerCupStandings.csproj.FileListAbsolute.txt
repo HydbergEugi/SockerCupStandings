@@ -1,0 +1,12 @@
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\bin\Debug\SockerCupStandings.exe.config
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\bin\Debug\SockerCupStandings.exe
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\bin\Debug\SockerCupStandings.pdb
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.csprojAssemblyReference.cache
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.Properties.Resources.resources
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.csproj.GenerateResource.cache
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.exe
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.pdb
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.Autorization.resources
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.InsertMatch.resources
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.Standings.resources
+C:\Users\fufar\source\repos\SockerCupStandings\SockerCupStandings\obj\Debug\SockerCupStandings.UpdateMatch.resources
